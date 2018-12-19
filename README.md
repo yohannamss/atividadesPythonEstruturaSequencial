@@ -1,0 +1,2 @@
+# atividadesPythonEstruturaSequencial
+Atividades Python para fixação
